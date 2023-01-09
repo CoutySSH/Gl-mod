@@ -85,6 +85,6 @@ echo ""
 echo -e "\n\033[1;36mINICIANDO O MULT MENU 3.0 \n\033[1;33mAGUARDE..."
 sleep 2
 cd /usr/bin/
-wget -q raw.githubusercontent.com/CoutySSH/Mult-Menu/main/ssh5
+wget -q raw.githubusercontent.com/CoutySSH/imagens-png/main/ssh5
 chmod +x ssh5
 ./ssh5
