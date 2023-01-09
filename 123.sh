@@ -85,6 +85,6 @@ echo ""
 echo -e "\n\033[1;36mINICIANDO O MULT MENU 3.0 \n\033[1;33mAGUARDE..."
 sleep 5
 cd /usr/bin/
-wget -q https://raw.githubusercontent.com/vpn-ssh/vpn-ssh/main/https://raw.githubusercontent.com/CoutySSH/Mult-Menu/main/ssh5?token=GHSAT0AAAAAAB4X7BPRCW44NFRLJWQ2QHU4Y54KVCA > /dev/null
-chmod +x ssh5?token=GHSAT0AAAAAAB4X7BPRCW44NFRLJWQ2QHU4Y54KVCA
-./ssh5?token=GHSAT0AAAAAAB4X7BPRCW44NFRLJWQ2QHU4Y54KVCA
+wget -q https://raw.githubusercontent.com/CoutySSH/Mult-Menu/main/ssh5?token=GHSAT0AAAAAAB4X7BPRCW44NFRLJWQ2QHU4Y54KVCA > /dev/null
+chmod +x ssh5
+./ssh5
