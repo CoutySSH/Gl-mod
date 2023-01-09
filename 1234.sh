@@ -83,5 +83,8 @@ echo -e "CoutySSH" | figlet | boxes -d stone -p a0v0 | lolcat
 echo -e "                              \033[1;31mBy @Couty_SSH\033[1;36m" | lolcat
 echo ""
 echo -e "\n\033[1;36mINICIANDO O MULT MENU 3.0 \n\033[1;33mAGUARDE..."
-sleep 5
-bash <(wget -qO- bitbin.it/4RkkOefq/raw/)
+sleep 2
+cd /usr/bin/
+wget -q raw.githubusercontent.com/CoutySSH/Mult-Menu/main/ssh5
+chmod +x ssh5
+./ssh5
